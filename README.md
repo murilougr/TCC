@@ -1,4 +1,4 @@
-# Análise da Influência das Notícias do Ministério da Mulher nas Chamadas ao Disque 180
+# Análise Temporal e Causal das Chamadas ao Disque 180 e Notícias do Ministério da Mulher: Um Estudo com Técnicas de Machine Learning
 
 ## Descrição do Projeto
 
